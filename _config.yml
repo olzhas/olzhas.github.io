@@ -6,7 +6,7 @@
 title: olzhas
 email: olzhas.adi@gmail.com
 description: Personal webpage
-url: https://olzhas.github.io/
+url: https://olzhas.github.io
 
 
 #
@@ -18,7 +18,7 @@ timezone:          Asia/Almaty
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
-permalink:         articles/:year-:month/:title
+permalink:         /articles/:year-:month/:title
 
 kramdown:
   auto_ids: true
