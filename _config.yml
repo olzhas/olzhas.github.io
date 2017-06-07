@@ -67,3 +67,6 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+
+gems:
+  - jekyll-sitemap
