@@ -5,7 +5,7 @@ date: '2017-10-10T12:00:00.001+06:00'
 comments: true
 categories: [tips]
 ---
-
+<!--more-->
 I like to use Safari for browsing (it is a default browser on my mac), but I have Google Chrome for some tasks for example google docs or jupyter.
 But when you run Jupyter from Anaconda it launches the default browser in my case Safari. To run chrome instead you can do following things.
 Create a directory .jupyter
