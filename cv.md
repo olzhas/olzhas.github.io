@@ -1,6 +1,7 @@
 ---
 title: CV
 layout: page
+docurl: https://olzhas.github.io/assets/images/oadiyatov_resume_fall2017.pdf
 permalink: cv.html
 ---
 
