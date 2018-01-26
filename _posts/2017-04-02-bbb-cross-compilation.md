@@ -16,7 +16,7 @@ $ echo "Hello world"
 you should type it in the terminal (GNOME Terminal, Konsole, xterm, etc)
 
 ## BeagleBone Black side
-Firstly, let us prepare BeagleBone Black flashing it with the latest Debian image. Download latest image from [https://beagleboard.org/latest-images]. I used Debian Jessie 8.7.
+Firstly, let us prepare BeagleBone Black flashing it with the latest Debian image. Download latest image from [https://beagleboard.org/latest-images](https://beagleboard.org/latest-images). I used Debian Jessie 8.7.
 
 ```bash
 $ wget https://debian.beagleboard.org/images/bone-debian-8.7-lxqt-4gb-armhf-2017-03-19-4gb.img.xz
@@ -87,7 +87,7 @@ $ sudo apt-get install gdb-multiarch
 
 Download Qt Creator from the official website
 Easiest path would be to follow the link below and select the latest version.
-[https://download.qt.io/official_releases/qtcreator/]
+[https://download.qt.io/official_releases/qtcreator/](https://download.qt.io/official_releases/qtcreator/)
 
 at the moment of writing of the document the latest version was 4.2.1 therefore
 ```sh
