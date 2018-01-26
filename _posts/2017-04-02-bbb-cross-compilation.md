@@ -61,7 +61,7 @@ $ ssh debian@192.168.7.2
 $ sudo nano /etc/uEnv.txt
 ```
 
-Remove the '#' on the line with 'cmdline=init=/opt/scripts/tools/eMMC/init-eMMC-flasher-v3.sh'. For more details please refer to [elinux.org/Beagleboard:BeagleBoneBlack_Debian](elinux.org/Beagleboard:BeagleBoneBlack_Debian).
+Remove the '#' on the line with 'cmdline=init=/opt/scripts/tools/eMMC/init-eMMC-flasher-v3.sh'. For more details please refer to [http://elinux.org/Beagleboard:BeagleBoneBlack_Debian](http://elinux.org/Beagleboard:BeagleBoneBlack_Debian).
 
 Reboot and wait until flash light turn off. You can unplug you microSD card and boot into a fresh OS.
 
