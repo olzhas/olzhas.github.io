@@ -1,7 +1,7 @@
 ---
 layout: post
 title: vcpkg with cmake overview 
-date: '2025-05-13T12:30:00.001-05:00'
+date: '2025-05-13T12:30:00.001-04:00'
 comments: true
 categories: [tips]
 ---
