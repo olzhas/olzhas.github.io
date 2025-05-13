@@ -1,5 +1,13 @@
+---
+layout: post
+title: vcpkg with cmake overview 
+date: '2025-05-13T12:30:00.001-05:00'
+comments: true
+categories: [tips]
+---
+
 Hello everyone,
 
-Here is a link to my tutorial that explains how to work with vcpkg and cmake - https://vcpkg-cmake-olzhas.netlify.app/
+I have compiled a tutorial that explains how to work with vcpkg and cmake - https://vcpkg-cmake-olzhas.netlify.app/
 
-I hope someone finds it useful. If you have anything to add or fix, please let me know.
+If you have anything to add or fix, please let me know. and I hope someone finds it useful. 
